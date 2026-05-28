@@ -1,0 +1,22 @@
+# 构建产物
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 临时文件
+*.log
+.trae/
